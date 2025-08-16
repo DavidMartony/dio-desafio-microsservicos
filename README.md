@@ -30,4 +30,4 @@ Além disso:
 ## ▶️ Como Executar
 Clone o repositório:
 ```bash
-git clone https://github.com/DavidMartony/dio-desafio-microsservicos
+git https://github.com/DavidMartony/dio-desafio-microsservicos
